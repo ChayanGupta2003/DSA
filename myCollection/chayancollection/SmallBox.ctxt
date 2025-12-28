@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=SmallBox
+comment1.params=
+comment1.target=SmallBox()
+comment2.params=
+comment2.target=int\ getRowPointer()
+comment3.params=
+comment3.target=int\ getColumnPointer()
+comment4.params=element
+comment4.target=void\ add(java.lang.Object)
+comment5.params=
+comment5.target=java.lang.String\ toString()
+numComments=6

@@ -1,0 +1,25 @@
+#BlueJ class context
+comment0.target=MyArrayList
+comment1.params=index
+comment1.target=boolean\ validIndex(int)
+comment10.params=
+comment10.target=java.lang.String\ toString()
+comment11.params=
+comment11.target=void\ print()
+comment2.params=
+comment2.target=java.lang.Object[]\ arrayFull()
+comment3.params=e
+comment3.target=void\ add(java.lang.Object)
+comment4.params=e\ index
+comment4.target=void\ add(java.lang.Object,\ int)
+comment5.params=index
+comment5.target=java.lang.Object\ get(int)
+comment6.params=index\ e
+comment6.target=java.lang.Object\ set(int,\ java.lang.Object)
+comment7.params=index
+comment7.target=java.lang.Object\ remove(int)
+comment8.params=
+comment8.target=boolean\ isEmpty()
+comment9.params=
+comment9.target=int\ size()
+numComments=12

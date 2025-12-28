@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.target=demo
+comment1.params=name\ genre\ price
+comment1.target=Book(java.lang.String,\ java.lang.String,\ int)
+comment2.params=b
+comment2.target=int\ compareTo(Book)
+comment3.params=
+comment3.target=java.lang.String\ toString()
+comment4.params=
+comment4.target=void\ takeInput()
+comment5.params=
+comment5.target=void\ print()
+comment6.params=
+comment6.target=void\ businessLogic()
+comment7.params=args
+comment7.target=void\ main(java.lang.String[])
+numComments=8

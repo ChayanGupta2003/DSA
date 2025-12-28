@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=armstrongNumber
+comment1.params=n
+comment1.target=int\ countDigit(int)
+comment2.params=args
+comment2.target=void\ main(java.lang.String[])
+comment3.params=n
+comment3.target=int\ recursiveArmstrong(int)
+numComments=4

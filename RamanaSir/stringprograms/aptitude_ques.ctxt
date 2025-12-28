@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=aptitude_ques
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment2.params=group
+comment2.target=void\ placeNum(java.lang.String[])
+comment3.params=group
+comment3.target=boolean\ checkGroup(java.lang.String[])
+comment4.params=l
+comment4.target=int[]\ factor(int)
+numComments=5

@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=MyLinkedList
+comment1.params=e
+comment1.target=void\ add(java.lang.Object)
+comment2.params=
+comment2.target=void\ show()
+comment3.params=
+comment3.target=void\ display()
+numComments=4
